@@ -1,5 +1,9 @@
 # maze-generation
-Some examples for maze generation algorithms using Java
+Some examples of maze generation algorithms using Java
+
+### Algorithms
+* Recursive Backtrack
+* Recursive Division
 
 ### Files
 `Cell.java` and `Cross.java` are the basic components used for the algorithsm
